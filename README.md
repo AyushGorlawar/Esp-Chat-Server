@@ -18,7 +18,8 @@ A lightweight localhost web server implementation for ESP-based devices that all
 - An ESP8266 or ESP32 device.
 - Arduino IDE or PlatformIO for programming.
   
-  ![Arduino IDE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1200px-Arduino_Logo.svg.png)
+  ![Arduino IDE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/300px-Arduino_Logo.svg.png)
+
 
 - Basic knowledge of HTML and JavaScript for customization.
   
